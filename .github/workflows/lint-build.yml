@@ -80,7 +80,7 @@ jobs:
         if [ "$RUNNER_OS" == "macOS" ]; then
           npm ci
         else
-          npm i
+          npm i --force
         fi
       shell: bash
 
