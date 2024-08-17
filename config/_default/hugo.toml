@@ -1,10 +1,10 @@
-title = "Hinode"
-copyright = "Copyright © 2024 Mark Dumay."
+title = "DEMOCRAFT D0CS"
+copyright = "Copyright © 2022 - 2024 DEMOCRAFT STUDIOS"
 paginate = 9
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://docs.democraft.fr"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
