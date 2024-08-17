@@ -78,7 +78,7 @@ jobs:
     - name: Perform clean install of npm
       run:  |
         if [ "$RUNNER_OS" == "macOS" ]; then
-          npm ci
+          npm ci --force
         else
           npm i --force
         fi
