@@ -1,4 +1,8 @@
-# Xbox
+---
+title: Xbox
+weight: 17
+---
+
 
 ### **Se connecter sur Xbox**
 
@@ -22,4 +26,4 @@ Validez, puis changez la configuration DNS secondaire celon l'image suivante
 
 Validez ensuite vos modification et fermez les paramètres.
 
-[#derniere-etape-sur-console](consoles.md#derniere-etape-sur-console "mention")
+#### [🔗 Dernière étape sur console](consoles.md#derniere-etape-sur-console "mention")

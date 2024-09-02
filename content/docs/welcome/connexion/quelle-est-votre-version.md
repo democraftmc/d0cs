@@ -1,4 +1,7 @@
-# 📦 Quelle est votre version ?
+---
+title: 📦 Quelle est votre version ?
+weight: 10
+---
 
 ### **Sur quelle version jouez vous ?**
 

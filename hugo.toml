@@ -45,7 +45,7 @@ title = "DEMOCRAFT.DOC"
         github = "democraftmc"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
         # twitter = ""       # YOUR_TWITTER_ID
         instagram = "democraftmc"     # YOUR_INSTAGRAM_ID
-        rss = false                    # show rss icon with link
+        # rss = false                    # show rss icon with link
 
     [params.docs] # Parameters for the /docs 'template'
         title           = "DEMOCRAFT.DOC"           # default html title for documentation pages/sections

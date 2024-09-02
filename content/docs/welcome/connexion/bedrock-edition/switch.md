@@ -1,4 +1,8 @@
-# Switch
+---
+title: Switch
+weight: 16
+---
+
 
 ### **Se connecter sur Switch**
 
@@ -20,4 +24,4 @@ Changer ensuite la configuration DNS celons l'image suivante, avec `104.238.130.
 
 Sauvegarder ensuite vos changements et fermez les paramètres de la console. Vous devriez être bon !
 
-[#derniere-etape-sur-console](consoles.md#derniere-etape-sur-console "mention")
+#### [🔗 Dernière étape sur console](consoles.md#derniere-etape-sur-console "mention")

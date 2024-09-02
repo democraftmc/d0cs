@@ -1,4 +1,7 @@
-# ☕ Java Edition
+---
+title: ☕ Java Edition
+weight: 11
+---
 
 ### **Se connecter sur Java Edition**
 

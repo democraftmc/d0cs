@@ -1,4 +1,7 @@
-# 📱 DEMOPHONE
+---
+title: 📱 DEMOPHONE
+weight: 32
+---
 
 Le **DEMOPHONE** est l'objet le plus important de DEMOCRAFT : il vous permet de vous déplacer entre les différents serveurs, voir vos amis, gérer votre groupe, utiliser des cosmétiques, voir vos staistiques, nos réseaux... Bref, l'outil parfait.
 

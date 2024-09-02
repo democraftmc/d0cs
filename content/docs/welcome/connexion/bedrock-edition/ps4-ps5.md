@@ -1,4 +1,8 @@
-# PS4/PS5
+---
+title: Playstation
+weight: 18
+---
+
 
 ### **Se connecter sur Playstation 4/5**
 
@@ -20,4 +24,4 @@ Changer la configuration DNS celons l'image suivante :
 
 Séléctionez "Automatic" pour le MTU > Séléctionnez "Ne pas utiliser" pour le proxy. Cliquez sur "Tester la connexion internet", et vous devriez être bon !
 
-[#derniere-etape-sur-console](consoles.md#derniere-etape-sur-console "mention")
+#### [🔗 Dernière étape sur console](consoles.md#derniere-etape-sur-console "mention")

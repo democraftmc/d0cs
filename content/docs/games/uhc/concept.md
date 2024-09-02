@@ -1,4 +1,7 @@
-# ℹ️ Concept
+---
+title: 📜 Concept
+weight: 262
+---
 
 L'UHC est le **battle royale à la minecraft**. Comme dans tout battre royale, le but est d'être le dernier survivant à la fin de la partie.
 

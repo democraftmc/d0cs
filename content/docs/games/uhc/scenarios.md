@@ -1,4 +1,7 @@
-# 🪄 Scénarios
+---
+title: 🪄 Scénarios
+weight: 264
+---
 
 ## 🌻 Flower Power
 Casser une fleure vous offre un objet aléatoire - souvent intéressant 

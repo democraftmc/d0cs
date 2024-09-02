@@ -1,9 +1,5 @@
 ---
-description: >-
-  Cette branche du wiki est en cours de rédaction - merci de votre
-  compréhension...
+weight: 200
+title: 🎮 Mini-Jeux
+icon: stadia_controller
 ---
-
-# ⚠️ WIP
-
-Cette branche du wiki est en cours de rédaction - merci de votre compréhension...

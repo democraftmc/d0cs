@@ -1,12 +1,14 @@
-# 🔥 FFA
+---
+title: 🔥 FFA
+description: Le but du FFA est de réaliser le plus de morts possible, en évitant sa propre mort au maximum
+weight: 222
+---
 
-Le but du FFA est de réaliser le plus de morts possible, en évitant sa propre mort au maximum
-
-{% hint style="info" %}
+{{% alert context="warning" %}}
 **LE FFA N'A PAS DE FIN**
 
 Ce mode de jeu est infini, et peu être joué avec autant de joueurs que vous le souhaitez.
-{% endhint %}
+{{% /alert %}}
 
 ## 📦 Kits
 

@@ -1,3 +1,6 @@
 public/
 node_modules/
 .hugo_build.lock
+resources/
+.hugo_build.lock
+.vscode/

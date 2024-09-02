@@ -1,2 +1,4 @@
-# 📦 Kits
-
+---
+title: 📦 Kits
+weight: 232
+---

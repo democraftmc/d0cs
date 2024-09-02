@@ -1,6 +1,7 @@
-# 🪐 Mondes VS Jeux
-
-
+---
+title: 🪐 Mondes VS Jeux
+weight: 33
+---
 
 ## 🎮 Mini Jeux
 

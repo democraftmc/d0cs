@@ -1,6 +1,9 @@
-# ℹ️ Concept
-
-Le but du bedwars est de détruire le lit desautres équipes et être la dernière équipe à survivre. Ce lit vous permet de revivre si vous êtes tué(e). Dès que le lit d'une équipe est détruit, les joueurs ne peuvent plus revivre.
+---
+title: 📜 Concept
+icon: bed
+weight: 210
+description: Le but du bedwars est de détruire le lit desautres équipes et être la dernière équipe à survivre. Ce lit vous permet de revivre si vous êtes tué(e). Dès que le lit d'une équipe est détruit, les joueurs ne peuvent plus revivre.
+---
 
 ## 🎩 Equipes
 
