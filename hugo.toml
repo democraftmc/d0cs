@@ -50,7 +50,7 @@ title = "DEMOCRAFT.DOC"
     [params.docs] # Parameters for the /docs 'template'
         title           = "DEMOCRAFT.DOC"           # default html title for documentation pages/sections
 
-        pathName        = "wiki"                            # path name for documentation site | default "docs"
+        pathName        = "docs"                            # path name for documentation site | default "docs"
 
         themeColor      = "red"                            # (optional) - Set theme accent colour. Options include: blue (default), green, red, yellow, emerald, cardinal, magenta, cyan
 
