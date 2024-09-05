@@ -1,5 +1,5 @@
 ---
 weight: 440
-title:  SkyBlock
+title: ⛅ SkyBlock
 icon: stadia_controller
 ---
