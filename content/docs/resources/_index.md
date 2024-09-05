@@ -1,6 +1,6 @@
 ---
 weight: 800
-title: 🥳 Bienvenu sur le Wiki de DEMOCRAFT !
+title: 🧩 Ressources
 description: Utilisez les menus si dessous pour vous orienter sur ce site web. Bonne lecture !
-icon: home
+icon: inventory_2
 ---
