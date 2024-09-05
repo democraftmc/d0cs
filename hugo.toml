@@ -38,7 +38,7 @@ title = "DEMOCRAFT.DOC"
   mono_font       = "Fira Code" # Default is System font
 
     [params.footer]
-        copyright = "© :YEAR: Vaatigames"
+        copyright = "© :YEAR: DEMOCRAFT STUDIOS"
         version = true # includes git commit info
 
     [params.social]
@@ -89,7 +89,7 @@ title = "DEMOCRAFT.DOC"
         # Link behaviour
         intLinkTooltip  = true                                # Enable a tooltip for internal links that displays info about the destination? default false
         # extLinkNewTab   = false                             # Open external links in a new Tab? default true
-        logoLinkURL = "/wiki"                                    # Set a custom URL destination for the top header logo link.
+        logoLinkURL = "/docs"                                    # Set a custom URL destination for the top header logo link.
 
     [params.flexsearch] # Parameters for FlexSearch
         enabled             = true
@@ -138,7 +138,7 @@ title = "DEMOCRAFT.DOC"
 [menu]
 [[menu.primary]]
     name  = "Wiki"
-    url = "wiki/"
+    url = "docs/"
     identifier = "docs"
     weight = 10
 
