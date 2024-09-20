@@ -1,6 +1,7 @@
 baseURL = 'https://docs.democraft.fr/'
 languageCode = 'fr-fr'
 title = "DEMOCRAFT.DOC"
+googleAnalytics = 'G-G4HFLE2FP8'
 
 [module]
     # replacements = "github.com/colinwilson/lotusdocs -> lotusdocs"
