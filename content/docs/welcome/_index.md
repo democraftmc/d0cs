@@ -1,6 +1,7 @@
 ---
 title: ✨ Bienvenue !
 weight: 1
+description: Découvrez ce qu'est DEMOCRAFT et comment rejoindre notre serveur
 icon: waving_hand
 ---
 

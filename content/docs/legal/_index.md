@@ -1,6 +1,6 @@
 ---
 weight: 900
 title: ⚖️ Légal
-description: DEMOCRAFT fait les truc bien de temps en temps
+description: Même si DEMOCRAFT est bancal, on est légal. Yaaay
 icon: balance
 ---

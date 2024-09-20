@@ -1,5 +1,5 @@
 ---
-title: 📝 Conditions Générales de Vente DEMOCRAFT
+title: 📝 Conditions Générales de Vente
 tags:
   - democraft
   - minecraft

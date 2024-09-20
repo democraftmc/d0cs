@@ -1,6 +1,6 @@
 ---
 weight: 950
 title: 🥶 L'Association
-description: DEMOCRAFT STUDIOS DAMMMN
+description: Documents légaux de DEMOCRAFT STUDIOS, l'association qui gère DEMOCRAFT
 icon: home
 ---

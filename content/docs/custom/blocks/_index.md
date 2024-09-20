@@ -1,5 +1,5 @@
 ---
-title: 🎏 Blocs
+title: 🧱 Blocs
 weight: 660
-description: Decpt
+description: Liste des blocs ajoutés sur DEMOCRAFT
 ---

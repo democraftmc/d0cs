@@ -1,5 +1,5 @@
 ---
-title: 🎏 Minerais
+title: 💎 Minerais
 weight: 690
-description: Decpt
+description: Liste de tout les minerais ajoutés sur DEMOCRAFT
 ---

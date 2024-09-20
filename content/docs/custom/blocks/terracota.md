@@ -7,7 +7,7 @@ Comme la terracota vanilla, les briques et les tuiles peuvent être colorés.
 ## Briques de Terracota
 Les briques de terracota se construisent de la manière suivante :
 
-<>
+![Recette de craft des shingles](/recipes/shigles.png)
 
 Vous pouvez utiliser la couleur de terracora que vous souhaitez, et la couleur du bloc dépendera de celle ci.
 
@@ -16,7 +16,7 @@ Vous pouvez utiliser la couleur de terracora que vous souhaitez, et la couleur d
 ## Tuiles de Terracota
 Les tuiles de terracota se construisent de la manière suivante :
 
-<>
+![Recette de craft des shingles](/recipes/shigles.png)
 
 Comme avec les briques, vous pouvez changer la couleur des tuiles en utilisant une couleur spécifique de terracota dans la recette de construction 
 
