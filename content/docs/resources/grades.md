@@ -81,7 +81,7 @@ Vous pouvez ouvrir un ticket sur notre discord pour nous proposer votre candidat
 Nous aident à développer les plugins/configurations/scripts de notre serveur
 ##### Recrutement
 Vous pouvez ouvrir un ticket sur notre discord pour nous proposer votre candidature ! 
-### 🗝 Staff
+### 🛡️ Staff
 ##### Fonction
 Une version augmenté de [[#🧰 Support]] et [[#🧐 Guide]], avec l'organisation d'évenement et du serveur en général en rab
 ##### Gradation du role `Guide`/`Support`

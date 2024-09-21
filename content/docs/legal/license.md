@@ -12,7 +12,9 @@ Vous êtes sur le point de lire notre **licence**, document qui définit les rè
 # 📦 Quelles projets sont concernés ? 
 Cette licence s'applique, au moment de sa dernière mise à jour, à **DEMOCRAFT STUDIOS** et ses possessions : Wynaria, Hetonia, Diamond Wars
 
-> [!Failure] Tout projet qui possède sa propre license active n'est pas concerné par ce document (Exemple : Default Server sur notre GitHub)
+{{% alert context="warning" %}}
+Tout projet qui possède sa propre license active n'est pas concerné par ce document (Exemple : Default Server sur notre GitHub)
+{{% /alert %}}
 
 # ✒️ Droit d'auteur
 Tout contenu créé par DEMOCRAFT est sujet au droit d'auteur ; vous devez donc avoir l'autorisation de son auteur avant de l'utiliser, et respecter son refus ou le retrait de sont accord. Ce concept est une loi française que vous devez respecter sous peine de poursuite judiciaire par notre organisme (DEMOCRAFT STUDIOS)
@@ -31,8 +33,10 @@ Cependant, le code de nos concept, Mini Jeux, serveurs et site web sont notre pr
 ### 🎨 Dessins
 Tout nos dessins (assets) que nous n'avons pas acheté à des tiers nous appartiennent. Vous ne pouvez donc pas les utiliser, mais nous ne pouvons pas vous empêcher de vous en inspirer, comme par exemple de créer vos propres avatars dans le style de DEMOCRAFT.
 
-> [!TIP] Attention aux anciens projets !
-> Ils ne sont pas tombé sous le droit commun ! Pour Wynaria par exemple, la marque, le code et les assets (principalement GUI) nous appartiennent toujours (à Benkuro11) et **ne peuvent donc pas être réutilisé, sauf avec son accord.**
+{{% alert context="danger" %}}
+**Attention aux anciens projets !**
+Ils ne sont pas tombé sous le droit commun ! Pour Wynaria par exemple, la marque, le code et les assets (principalement GUI) nous appartiennent toujours (à Benkuro11) et **ne peuvent donc pas être réutilisé, sauf avec son accord.**
+{{% /alert %}}
 
-# 🖨 Copyright 
+# 🖨️ Copyright 
 DEMOCRAFT est Copyright de 2022 à 2024. Tout droit réservé DEMOCRAFT STUDIOS.

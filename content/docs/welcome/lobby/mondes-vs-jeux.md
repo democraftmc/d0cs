@@ -5,7 +5,7 @@ weight: 33
 
 ## 🎮 Mini Jeux
 
-Les mini jeux sont
+Les mini jeux sont des mondes avec leurs propres règles et leur propre but. Ils sont souvent compétitifs, peuvent êtres joués tout seul ou en équipes et permettent d'obtenir des pièces cosmétiques.
 
 ## 🗺️ Mondes
 
