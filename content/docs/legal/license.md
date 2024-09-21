@@ -1,5 +1,6 @@
 ---
 title: ⚖️ Licence
+weight: 905
 tags:
   - legal
   - democraft

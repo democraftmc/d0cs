@@ -1,5 +1,6 @@
 ---
 title: 📝 Conditions Générales d'Utilisation
+weight: 902
 tags:
   - democraft
   - minecraft

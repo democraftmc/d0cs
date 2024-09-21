@@ -1,5 +1,6 @@
 ---
 title: 📝 Politique de Confidentialité
+weight: 904
 tags:
   - democraft
   - minecraft

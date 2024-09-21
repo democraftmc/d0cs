@@ -1,5 +1,6 @@
 ---
 title: 📝 Conditions Générales de Vente
+weight: 903
 tags:
   - democraft
   - minecraft
