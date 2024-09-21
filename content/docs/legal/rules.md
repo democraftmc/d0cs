@@ -14,7 +14,7 @@ icon: balance
 - Vous serez tenu seul responsable du contenu que vous postez.
 - Il vous est interdit d'enregistrer les salons écrits et vocaux.
 
-# II] ✒️ Dans les salons écrits / Le chat ingame
+# II] ✒️ Dans les salons écrits / Le chat
 - Le spam, flood, spoil et abus d'emojis seront sanctionnés.
 - La diffusion d'informations privées ou de photos sans l'accord de la personne est interdite.
 - La publicité est interdite en messages privés. Les incitations à regarder un statut publicitaire seront sanctionnées.
