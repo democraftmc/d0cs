@@ -59,7 +59,7 @@ Vous pouvez ouvrir un ticket sur notre discord pour nous proposer votre candidat
 ##### Fonction
 Les **guides** nous aident à *guider - sans blague* - les nouveaux joueurs de DEMOCRAFT à travers les différents modes de jeux.
 ##### Recrutement
-Vous pouvez ouvrir un ticket sur notre discord pour nous proposer votre candidature ! Une connaissance du serveur est requise pour devenir guide.  Sinon, candidatez pour [[#🧰 Support]]
+Vous pouvez ouvrir un ticket sur notre discord pour nous proposer votre candidature ! Une connaissance du serveur est requise pour devenir guide.  Sinon, candidatez pour [🧰 Support](#-support)
 
 ### 📱CM (Comunity Manager)
 ##### Fonction
@@ -83,16 +83,16 @@ Nous aident à développer les plugins/configurations/scripts de notre serveur
 Vous pouvez ouvrir un ticket sur notre discord pour nous proposer votre candidature ! 
 ### 🛡️ Staff
 ##### Fonction
-Une version augmenté de [[#🧰 Support]] et [[#🧐 Guide]], avec l'organisation d'évenement et du serveur en général en rab
+Une version augmenté de [🧰 Support](#-support) et [🧐 Guide](#-guide), avec l'organisation d'évenement et du serveur en général en rab
 ##### Gradation du role `Guide`/`Support`
 
 ### ✨️ Administrateur
 ##### Fonction
-Rôle obtenu après [[#🗝 Staff]], administre complètement le serveur
+Rôle obtenu après [🛡️ Staff](#-staff), administre complètement le serveur
 ##### Gradation du role `Staff`
 ### 👑 Fondateur (Owner)
 ##### Fonction
-Comme un [[#✨️ Administrateur]] mais depuis le tout tout début (même si fantai et benkuro sont là depuis la V1)
+Comme un [✨️ Administrateur](#-fondateur-owner) mais depuis le tout tout début (même si fantai et benkuro sont là depuis la V1)
 
 ##### Aucune gradation possible
 Et ouaip, il fallait fonder le serveur
