@@ -257,3 +257,11 @@ var sanitizeHTML = function (str) {
 		return '&#' + c.charCodeAt(0) + ';';
 	});
 };
+
+mermaid.registerIconPacks([
+  {
+    name: 'lucide',
+    loader: () =>
+      fetch('https://unpkg.com/@iconify-json/lucide/icons.json').then((res) => res.json()),
+  },
+]);
