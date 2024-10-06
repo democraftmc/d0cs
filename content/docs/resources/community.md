@@ -1,11 +1,13 @@
 ---
 weight: 801
 title: 💖 Community Guidelines
-description: Quelques questions que vous pourriez vous poser à propos de la V4 de DEMOCRAFT
+description: DEMOCRAFT est un serveur qui s'est construit sur la communauté, et il est donc important que vous et nous en prenions soins !
 icon: home
 ---
 
-Aujourd'hui, il est compliqué pour les serveurs Minecraft français d'être économiquement indépendants. Donc, au lieu de faire les hommes d'affaires, nous avons décidé de faire quelque chose de amusant, à la fois pour les joueurs et pour l'équipe du serveur.
+> **DEMOCRAFT ne sera jamais un gros serveur comme Hypixel ou Craftok.** Nous avons fait le choix de ne pas sortir de notre concept
+> et de proposer une infrastructure crossplay (java & bedrock) à tous. Mais pour le moment, celle si nous est tous sauf rentable.
+> C'est donc pour cela que nos valeurs nous sont si importantes, car c'est ce qui fait vivre le serveur.[^1]
 
 DEMOCRAFT est ouvert à tous. Vous pouvez vous connecter comme vous le voulez, en étant qui vous êtes. Nous sommes ouverts à tous, de l'ancien joueur Java au non-binaire jouant sur son réfrigérateur Samsung connecté.
 
@@ -15,6 +17,4 @@ DEMOCRAFT est transparent. Pourquoi vous cacher des choses alors que nous ne fai
 
 DEMOCRAFT promeut la création, par les jeunes, pour les jeunes. Les jeux vidéo en général et Minecraft en particulier sont des bacs à sable incroyables pour que les jeunes créent ensembles.
 
-💜 Un IMMENSE merci à Vaati qui nous a donné une infrastructure incroyable dont nous n'aurions pas pu rêver.
-
-Si vous avez lu notre site jusqu'ici, prenez juste une minute pour remercier Vaati sur notre Discord ou lors de notre panel <3
+[^1]: 💜 Un IMMENSE merci à Vaati qui nous a donné une infrastructure incroyable dont nous n'aurions pas pu rêver.
