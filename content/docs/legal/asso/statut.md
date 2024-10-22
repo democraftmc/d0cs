@@ -53,15 +53,15 @@ Toute décision est voté par l'ensemble du conseil.
 
 <div class="signature-grid">
     <a href="#" style="display: flex; align-items: center; flex-direction: column; height: 14rem; justify-content: end;">
-        <img src="/img/sign-funa.png"  alt="Signature Funasitien" style="margin-bottom: 0px;">
+        <img src="/img/sign-funa.png"  alt="Signature Funasitien" style="margin-bottom: 0px;" style="height: 14rem;">
         <p style="margin-top: 0px;">Funasitien, Président</p>
     </a>
     <a href="#" style="display: flex; align-items: center; flex-direction: column; height: 14rem; justify-content: end;">
-        <img src="/img/sign-fantai.png"  alt="Signature Fantaisiici">
+        <img src="/img/sign-fantai.png"  alt="Signature Fantaisiici" style="height: 14rem;">
         <p>Fantaisiici, Président</p>
     </a>
     <a href="#" style="display: flex; align-items: center; flex-direction: column; height: 14rem; justify-content: end;">
-        <img src="/img/sign-benku.png" alt="Signature Benkuro11">
+        <img src="/img/sign-benku.png" alt="Signature Benkuro11" style="height: 14rem;">
         <p>Benkuro11, Président</p>
     </a>
 </div>
