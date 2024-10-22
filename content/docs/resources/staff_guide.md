@@ -18,4 +18,4 @@ Donc vous devez respecter nos valeurs et notre règlement - toute forme de propo
 Donc vous devez faire respecter les règles ? Pas sur de celle là.
 
 # 🧭 Vous influencez DEMOCRAFT...
-...et son image dépend de vous. C'est pour cela que nous vous demandons d'être irréprochable d'un point de vue légal. Si vous n'avez pas été introduit à lelapin, laisser moi vous résumer en quelques mots pourquoi nous devons êtres irréprochable.
+...et son image dépend de vous. C'est pour cela que nous vous demandons d'être irréprochable d'un point de vue légal. Si vous n'avez pas été introduit à lelapin, laisser moi vous résumer en quelques mots pourquoi nous devons êtres irréprochable. Nous avons des ennemis. Un serveur sortit de nul part qui a autant de serveurs gratuits, ça fait envier. Beaucoup de ces serveurs veulent notre peau, et la carte de la légalite est notre meilleur atout pour les contrer.  $$🥰 Wynaria$$
