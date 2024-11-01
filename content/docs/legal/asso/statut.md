@@ -50,18 +50,30 @@ Tout les adhérents acceptés par le conseil d'administration sont accéptés da
 Le conseil d'administration se réuni tout les deux mois, pour discuter de l'avancé du projet, *de ses tenant et aboutissants*.
 Toute décision est voté par l'ensemble du conseil. 
 
-
-<div class="signature-grid">
+<style>
+.signature-grid {
+	 display: grid;
+	 grid-template-columns: repeat(2, minmax(0, 1fr));
+	 gap: 1.5rem;
+}
+ @media (min-width: 639px) {
+	 .signature-grid {
+		 grid-template-columns: repeat(3, minmax(0, 1fr));
+	}
+}
+ 
+</style>
+<div class="signature-grid ">
     <a href="#" style="display: flex; align-items: center; flex-direction: column; height: 14rem; justify-content: end;">
-        <img src="/img/sign-funa.png"  alt="Signature Funasitien" style="margin-bottom: 0px; height: 10rem; width: auto;">
+        <img src="/img/sign-funa.png"  alt="Signature Funasitien" style="margin-bottom: 0px; max-height: 10rem; width: auto;">
         <p style="margin-top: 0px;">Funasitien, Président</p>
     </a>
     <a href="#" style="display: flex; align-items: center; flex-direction: column; height: 14rem; justify-content: end;">
-        <img src="/img/sign-fantai.png"  alt="Signature Fantaisiici" style="height: 10rem; width: auto;">
+        <img src="/img/sign-fantai.png"  alt="Signature Fantaisiici" style="max-height: 10rem; width: auto;">
         <p>Fantaisiici, Président</p>
     </a>
     <a href="#" style="display: flex; align-items: center; flex-direction: column; height: 14rem; justify-content: end;">
-        <img src="/img/sign-benku.png" alt="Signature Benkuro11" style="height: 10rem; width: auto;">
+        <img src="/img/sign-benku.png" alt="Signature Benkuro11" style="max-height: 10rem; width: auto;">
         <p>Benkuro11, Président</p>
     </a>
 </div>
