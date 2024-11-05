@@ -10,7 +10,7 @@ date: 2024-07-09
 Vous êtes sur le point de lire notre **licence**, document qui définit les règles de ce que vous pouvez faire et ce que vous ne pouvez pas faire avec nos créations.
 
 # 📦 Quelles projets sont concernés ? 
-Cette licence s'applique, au moment de sa dernière mise à jour, à **DEMOCRAFT STUDIOS** et ses possessions : Wynaria, Hetonia, Diamond Wars
+Cette licence s'applique, au moment de sa dernière mise à jour, à **DEMOCRAFT STUDIOS** et ses possessions : Wyntaria, Hetonia, Diamond Wars
 
 {{% alert context="warning" %}}
 Tout projet qui possède sa propre license active n'est pas concerné par ce document (Exemple : Default Server sur notre GitHub)
