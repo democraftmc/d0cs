@@ -3,7 +3,6 @@ weight: 802
 title: "💝 Staff Guidelines"
 description: "Notre staff est assigné d'une mission importante : nous représenter. C'est pour cela que nous assurer qu'il respecte nos valeurs est une priorité."
 icon: "stars"
-katex: true
 ---
 
 Voici quelques points qui forme le règlement du staff. Même si des accrochage à celui si peuvent être tolérés, nous vous demandons de le respecter au maximum - au risque de perdre votre grade.
@@ -19,4 +18,4 @@ Donc vous devez respecter nos valeurs et notre règlement - toute forme de propo
 Donc vous devez faire respecter les règles ? Pas sur de celle là.
 
 # 🧭 Vous influencez DEMOCRAFT...
-...et son image dépend de vous. C'est pour cela que nous vous demandons d'être irréprochable d'un point de vue légal. Si vous n'avez pas été introduit à lelapin, laisser moi vous résumer en quelques mots pourquoi nous devons êtres irréprochable. Nous avons des ennemis. Un serveur sortit de nul part qui a autant de serveurs gratuits, ça fait envier. Beaucoup de ces serveurs veulent notre peau, et la carte de la légalite est notre meilleur atout pour les contrer.  $$🥰 Wynaria$$
+...et son image dépend de vous. C'est pour cela que nous vous demandons d'être irréprochable d'un point de vue légal. Nous avons des ennemis. Un serveur sortit de nul part qui a autant de machines gratuits, ça fait envier. Beaucoup de ces serveurs veulent notre peau, et la carte de la légalite est notre meilleur atout pour les contrer.
