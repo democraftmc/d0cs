@@ -5,6 +5,12 @@ description: "Avec le temps que nous avons perdu à dessiner, autant qu'ils soie
 icon: "stars"
 ---
 
+<style>
+.table-fixed {
+   table-layout: fixed;
+}
+</style>
+
 Merci du fond du cœur de prêter attention à DEMOCRAFT et de prendre le temps d'écrire un article sur nous. N'hésitez pas à lire les autres pages de ce site pour pouvoir alimenter au mieux votre réflexion - et nous avons aussi résumé [notre histoire](histoire) sur la page suivante, si vous ne l'avez pas lu !
 
 # 📸 Charte graphique
