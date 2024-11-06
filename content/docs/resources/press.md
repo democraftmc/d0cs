@@ -28,7 +28,13 @@ Nous avons une palette de couleur très simple : rouge, rouge et rouge. Si vous 
 
 ## 🌟 Notre Logo
 
-![DEMOCRAFT's Logo](https://cdn.democraft.fr/r/logo.png)
+{{< table "table-fixed table-hover" >}}
+|                      Logo Officiel                       |           Logo Pixel perfect (avec bord arrondis)            |                           Logo Vide                           |
+| :------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: |
+| ![DEMOCRAFT's Logo](https://cdn.democraft.fr/r/logo.png) | ![DEMOCRAFT's Logo](https://cdn.democraft.fr/r/demo-512.png) | ![DEMOCRAFT's Logo](https://cdn.democraft.fr/r/logo-vide.png) |
+{{< /table >}}
+
+
 
 ## 📦 Nos Rendus 3D
 
