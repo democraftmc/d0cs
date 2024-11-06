@@ -14,16 +14,16 @@ tags:
 {{< table "table-hover overflow-x-auto" >}}
 | Avantages                |  Joueur   |                      MINI                       |                    DEMO                    |                      DEMO+                      |                    DEMO MAX                    |
 | :----------------------- | :-------: | :---------------------------------------------: | :----------------------------------------: | :---------------------------------------------: | :--------------------------------------------: |
-| Peut rejoindre DEMOCRAFT |     ✅     |                        ✅                        |                     ✅                      |                        ✅                        |                       ✅                        |
+| Peut rejoindre DEMOCRAFT |    ✅     |                       ✅                        |                     ✅                     |                       ✅                        |                       ✅                       |
 | Groupes                  | 3 Joueurs |                    5 Joueurs                    |                 8 Joueurs                  |                   10 Joueurs                    |                    Illimité                    |
-| Changement de Skin       |     ❌     |                        ✅                        |                     ✅                      |                        ✅                        |                       ✅                        |
-| Commande `/fly`          |     ❌     |                        ❌                        |                     ✅                      |                        ✅                        |                       ✅                        |
-| Kit Hébdomadaire[^1]         |     ❌     |                      200💎                      |                   500💎                    |                      800💎                      |                     1200💎                     |
+| Changement de Skin       |    ❌     |                       ✅                        |                     ✅                     |                       ✅                        |                       ✅                       |
+| Commande `/fly`          |    ❌     |                       ❌                        |                     ✅                     |                       ✅                        |                       ✅                       |
+| Kit Hébdomadaire[^1]     |    ❌     |                     200💎                      |                   500💎                   |                     800💎                      |                    1200💎                     |
 | Role discord             |  Joueur   | **<span style="color: #f55;">Mini-DEMO</span>** | **<span style="color: #f55;">DEMO</span>** | **<span style="color: #f55;">DEMO PLUS</span>** | **<span style="color: #f55;">DEMO MAX</span>** |
 | Homes                    |     5     |                        8                        |                     12                     |                       15                        |                       20                       |
-| Cooldown Téléportation   |    10s    |                       10s                       |                    10s                     |                        ❎                        |                       ❎                        |
-| Booster de coins[^1]        |     ❌     |                        ❌                        |                    +50%                    |                      +100%                      |                     +200%                      |
-| Avatar Personalisé[^2]      |     ❌     |                        ❌                        |                     ✅                      |                        ✅                        |                       ✅                        |
+| Cooldown Téléportation   |    10s    |                       10s                       |                    10s                     |                       ❎                        |                       ❎                       |
+| Booster de coins[^1]     |    ❌     |                       ❌                        |                    +50%                    |                      +100%                      |                     +200%                      |
+| Avatar Personalisé[^2]   |    ❌     |                       ❌                        |                     ✅                     |                       ✅                        |                       ✅                       |
 {{< /table >}}
 
 ---
