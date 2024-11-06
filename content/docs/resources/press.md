@@ -15,8 +15,8 @@ La mascotte principale de DEMOCRAFT est DEMO, un bloc de brique mais qui bouge e
 
 Blablabla
 
-{{< table "table-hover" >}}
-|                    ++DEMO++                     |                        FAMPAGNE                         |                    ++BULE++                     |
+{{< table "table-fixed table-hover" >}}
+|                      DEMO                       |                        FAMPAGNE                         |                      BULE                       |
 | :---------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------: |
 | ![DEMO](https://cdn.democraft.fr/r/bg_demo.png) | ![FAMPAGNE](https://cdn.democraft.fr/r/bg_fampagne.png) | ![BULE](https://cdn.democraft.fr/r/bg_bule.png) |
 {{< /table >}}
@@ -38,3 +38,9 @@ Nous avons une palette de couleur très simple : rouge, rouge et rouge. Si vous 
 ![Cracked 3D render of the text DEMOCRAFT with bedrock edition on it](https://cdn.democraft.fr/r/title_bedrock.png)
 
 ## 🖍️ Notre Équipe
+
+{{< table "table-fixed table-hover" >}}
+|                      DEMO                       |                        FAMPAGNE                         |                      BULE                       |
+| :---------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------: |
+| ![DEMO](https://cdn.democraft.fr/r/bg_demo.png) | ![FAMPAGNE](https://cdn.democraft.fr/r/bg_fampagne.png) | ![BULE](https://cdn.democraft.fr/r/bg_bule.png) |
+{{< /table >}}
