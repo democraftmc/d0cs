@@ -1,8 +1,9 @@
 ---
-weight: 801
+weight: 820
 title: 💖 Community Guidelines
 description: DEMOCRAFT est un serveur qui s'est construit sur la communauté, et il est donc important que vous et nous en prenions soins !
 icon: home
+draft: true
 ---
 
 > **DEMOCRAFT ne sera jamais un gros serveur comme Hypixel ou Craftok.** Nous avons fait le choix de ne pas sortir de notre concept

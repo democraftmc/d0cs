@@ -1,5 +1,5 @@
 ---
-weight: 810
+weight: 801
 title: 🏷️ Comparatif des Grades
 description: Voici un comparatif des différents grades de DEMOCRAFT avec les conditions existantes pour les obtenir.
 icon: home
