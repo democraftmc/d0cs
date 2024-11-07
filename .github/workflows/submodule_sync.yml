@@ -3,12 +3,15 @@ name: Submodule Update
 on:
   schedule:
     - cron: '0 0 * * *' # Run at 00:00 UTC every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
 
 jobs:
-
   update-submodules:
     runs-on: ubuntu-latest
-    
     steps:
     - uses: actions/checkout@v2
       with:
