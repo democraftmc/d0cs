@@ -51,7 +51,7 @@ Nous avons une palette de couleur très simple : rouge, rouge et rouge. Si vous 
 
 ## 🖍️ Notre Équipe
 
-{{< table "table-fixed table-hover" >}}
+{{< table "table-fixed table-hover table-borderless table-xs" >}}
 |                      DEMO                       |                        FAMPAGNE                         |                      BULE                       |
 | :---------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------: |
 | ![DEMO](https://cdn.democraft.fr/r/bg_demo.png) | ![FAMPAGNE](https://cdn.democraft.fr/r/bg_fampagne.png) | ![BULE](https://cdn.democraft.fr/r/bg_bule.png) |
