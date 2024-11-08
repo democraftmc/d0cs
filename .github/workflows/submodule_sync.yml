@@ -37,6 +37,8 @@ jobs:
       run: |
         git pull --recurse-submodules
         git submodule update --remote --force
+        git add .
+        git commit -m "🔁 Gitmodule Sync"
         git push
       env:
         GIT_USER: ${{ github.actor }}
