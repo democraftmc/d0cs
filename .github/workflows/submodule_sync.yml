@@ -32,16 +32,17 @@ jobs:
     - uses: actions/checkout@v2
       with:
         submodules: recursive
+        fetch-depth: 0
         
     - name: Update Submodules
       run: |
-        git submodule update
+        git submodule update --init --recursive
         
         git config --global user.email "${{ github.actor }}@users.noreply.github.com"
         git config --global user.name "${{ github.actor }}"
 
         git add .
-        git commit -m "🔁 Gitmodule Sync"
+        git diff-index --quiet HEAD || git commit -m "🔁 Gitmodule Sync"
         git push
       env:
         GIT_USER: ${{ github.actor }}
