@@ -124,30 +124,30 @@ defaultContentLanguageInSubdir = false
         # plausibleAPI    = "/docs/s" # optional - (or set via env variable HUGO_PARAM_ANALYTICS_plausibleAPI)
         # plausibleDomain = ""      # (or set via env variable HUGO_PARAM_ANALYTICS_plausibleDomain)
 
-    #[params.feedback]
-    #    enabled = true
-    #    emoticonTpl = true
-    #    eventDest = ["google"]
-    #    emoticonEventName = "Commentaire"
-    #    positiveEventName = "Commentaire positif" 
-    #    negativeEventName = "Commentaire négatif"
-    #    positiveFormTitle = "Qu'est-ce que vous avez aimé ?"
-    #    negativeFormTitle = "Qu'est-ce qui n'a pas fonctionné ?"
-    #    successMsg = "Merci d'avoir contribué à améliorer la documentation de Lotus Docs !"
-    #    errorMsg = "Désolé ! Une erreur est survenue lors de la soumission de votre commentaire."
-    #    positiveForm = [
-    #      ["Précis", "Décrit avec précision la fonctionnalité ou l'option."],
-    #      ["A résolu mon problème", "M'a aidé à résoudre un problème."],
-    #      ["Facile à comprendre", "Facile à suivre et à comprendre."],
-    #      ["Autre chose"]
-    #    ]
-    #    negativeForm = [
-    #      ["Imprécis", "Ne décrit pas avec précision la fonctionnalité ou l'option."],
-    #      ["Je n'ai pas trouvé ce que je cherchais", "Informations importantes manquantes."],
-    #      ["Difficile à comprendre", "Trop compliqué ou peu clair."], 
-    #      ["Erreurs dans les exemples de code", "Un ou plusieurs exemples de code sont incorrects."],
-    #      ["Autre chose"]
-    #    ]
+    [params.feedback]
+        enabled = true
+        emoticonTpl = true
+        eventDest = ["google"]
+        emoticonEventName = "Commentaire"
+        positiveEventName = "Commentaire positif" 
+        negativeEventName = "Commentaire négatif"
+        positiveFormTitle = "Qu'est-ce que vous avez aimé ?"
+        negativeFormTitle = "Qu'est-ce qui n'a pas fonctionné ?"
+        successMsg = "Merci d'avoir contribué à améliorer la documentation de Lotus Docs !"
+        errorMsg = "Désolé ! Une erreur est survenue lors de la soumission de votre commentaire."
+        positiveForm = [
+          ["Précis", "Décrit avec précision la fonctionnalité ou l'option."],
+          ["A résolu mon problème", "M'a aidé à résoudre un problème."],
+          ["Facile à comprendre", "Facile à suivre et à comprendre."],
+          ["Autre chose"]
+        ]
+        negativeForm = [
+          ["Imprécis", "Ne décrit pas avec précision la fonctionnalité ou l'option."],
+          ["Je n'ai pas trouvé ce que je cherchais", "Informations importantes manquantes."],
+          ["Difficile à comprendre", "Trop compliqué ou peu clair."], 
+          ["Erreurs dans les exemples de code", "Un ou plusieurs exemples de code sont incorrects."],
+          ["Autre chose"]
+        ]
 
 [menu]
 [[menu.primary]]
