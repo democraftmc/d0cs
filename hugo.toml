@@ -4,16 +4,16 @@ googleAnalytics = 'G-G4HFLE2FP8'
 
 defaultContentLanguage = 'fr'
 defaultContentLanguageInSubdir = false
-[languages]
-  [languages.fr]
-    languageCode = 'fr-fr'
-    languageName = 'Français'
-    weight = 10
-  [languages.en]
-    languageCode = 'en-US'
-    languageName = 'English'
-    contentDir = 'content/en'
-    weight = 20
+#[languages]
+  #[languages.fr]
+    #languageCode = 'fr-fr'
+    #languageName = 'Français'
+    #weight = 10
+  #[languages.en]
+    #languageCode = 'en-US'
+    #languageName = 'English'
+    #contentDir = 'content/en'
+    #weight = 20
 
 
 [module]
@@ -127,7 +127,7 @@ defaultContentLanguageInSubdir = false
     #[params.feedback]
     #    enabled = true
     #    emoticonTpl = true
-    #    eventDest = ["plausible","google"]
+    #    eventDest = ["google"]
     #    emoticonEventName = "Commentaire"
     #    positiveEventName = "Commentaire positif" 
     #    negativeEventName = "Commentaire négatif"
