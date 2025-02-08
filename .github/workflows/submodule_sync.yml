@@ -27,7 +27,7 @@ jobs:
 # Build job
   update-submodules:
     name: 🔁 Gitmodule Sync
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
     - uses: actions/checkout@v2
       with:
@@ -81,7 +81,7 @@ jobs:
         --minify \
         --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: 📦 Publication des fichiers
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v4
       with:
         path: ./public
 
@@ -96,4 +96,4 @@ jobs:
     steps:
     - name: 🌐 Publication sur GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses: actions/deploy-pages@v3
