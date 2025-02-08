@@ -2,3 +2,7 @@
 	path = content/docs
 	url = https://github.com/democraftmc/markd0wn.git
 	branch = fr-fr
+[submodule "content/docs/en"]
+	path = content/docs/en
+	url = https://github.com/democraftmc/markd0wn.git
+	branch = en-us
