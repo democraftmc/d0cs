@@ -39,6 +39,13 @@ jobs:
         git submodule sync --recursive
         git submodule update --recursive --remote
         git pull --recurse-submodules
+
+        cd content
+        cd docs
+        git pull https://github.com/democraftmc/markd0wn.git fr-fr
+        cd ../en/docs
+        git pull https://github.com/democraftmc/markd0wn.git en-us
+        cd ../../..
         
         git config --global user.email "${{ github.actor }}@users.noreply.github.com"
         git config --global user.name "${{ github.actor }}"
