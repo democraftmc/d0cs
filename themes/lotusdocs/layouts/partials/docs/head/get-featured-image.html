@@ -26,13 +26,6 @@
 
     {{ $filters := slice (images.Text $textTitle $textTitleOptions) }}
 
-    {{ $logo := resources.Get "images/logos/logo.png" }}
-    {{ with $logo }}
-        {{ $logo = $logo.Resize "x60" }}
-        {{ $logoFilter := (images.Overlay $logo 65 110) }}
-        {{ $filters = $filters | append $logoFilter }}
-    {{ end }}
-
     {{ if gt ($title | strings.RuneCount) 23 }}
     {{ $descPadding = -30 }}
         {{ if gt ($title | strings.RuneCount) 40 }}
