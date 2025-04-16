@@ -1,17 +1,15 @@
 <head>
     <meta charset="utf-8" />
-    <script defer src="https://umami.vaatigames.ovh/script.js" data-website-id="d63994bf-eece-4223-8a93-9b747c6b9995"></script>
     <title>{{- .Site.Title }}</title>
     {{- if not hugo.IsProduction }}
     <meta name="robots" content="noindex">
     {{- end }}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A Lightweight, Modern Documentation Theme for Hugo" />
-    <meta name="keywords" content="Documentation, Hugo, Hugo Theme, Bootstrap" />
-    <meta name="author" content="Colin Wilson - Lotus Labs" />
-    <meta name="email" content="support@aigis.uk" />
-    <meta name="website" content="https://lotusdocs.dev" />
-    <meta name="Version" content="v0.1.0" />
+    <meta name="description" content="Official documentation & wiki for mc.democraft.fr" />
+    <meta name="author" content="Funasitien DreamCloud - DEMOCRAFT" />
+    <meta name="email" content="contact@democraft.fr" />
+    <meta name="website" content="https://docs.democraft.fr" />
+
     <!-- favicon -->
     {{ block "head/favicon" . }}{{ partialCached "head/favicon.html" . }}{{ end }}
     <!-- Google Fonts -->
@@ -36,7 +34,8 @@
     {{ if hugo.IsProduction }}
         {{ $js = $js | fingerprint "sha384" }}
     {{ end }}
-        <script src="{{ $js.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end -}} defer></script>
+    <script src="{{ $js.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end -}} defer></script>
+    <script src="https://umami.vaatigames.ovh/script.js" data-website-id="d63994bf-eece-4223-8a93-9b747c6b9995" defer></script>
     <!-- Image Compare Viewer -->
     {{ if ($.Scratch.Get "image_compare_enabled") }}
         {{ $imagecompare := resources.Get "js/image-compare-viewer.min.js" }}
